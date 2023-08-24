@@ -1,4 +1,4 @@
-# 🐍 Bioinformatics GUI Tool for Biopython and Python Packages
+# GUI for Biopython
 
 ## Introduction
 
