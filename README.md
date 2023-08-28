@@ -1,8 +1,14 @@
+
+![Logo](https://github.com/rahriver/Genome-X/assets/89016694/7924ed3b-8f1c-4a50-bbff-ec57da188543)
+
+![logo](https://github.com/rahriver/Genome-X/assets/89016694/8141288c-f551-47a3-bacb-9ed585a5d88b)
+
+
 # GUI for Biopython
 
 ## Introduction
 
-This repository contains a graphical user interface (GUI) application designed to interact with various bioinformatics-related Python packages, including Biopython. The application provides an easy-to-use interface for performing sequence analysis, transcribing DNA to RNA, translating DNA to protein, and calculating melting temperature (Tm) for DNA sequences.
+This repository contains a graphical user interface (GUI) application that interacts with various bioinformatics-related Python packages, including Biopython. The application provides an easy-to-use interface for performing sequence analysis, transcribing DNA to RNA, translating DNA to protein, and calculating melting temperature (Tm) for DNA sequences.
 
 ## ⚙ Features
 
@@ -44,4 +50,4 @@ The application includes the following tabs:
 - More attractive design
 
 ## Contributing
-Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
+I want you to know that contributions to this repository are welcome. If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
