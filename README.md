@@ -1,8 +1,4 @@
-
-![Logo](https://github.com/rahriver/Genome-X/assets/89016694/7924ed3b-8f1c-4a50-bbff-ec57da188543)
-
 ![logo](https://github.com/rahriver/Genome-X/assets/89016694/8141288c-f551-47a3-bacb-9ed585a5d88b)
-
 
 # GUI for Biopython
 
